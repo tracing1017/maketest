@@ -1,0 +1,1 @@
+../../bin/mul.o: mul.c ../../include/mul.h
