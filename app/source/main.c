@@ -5,7 +5,7 @@
 
 int main (int argc, char *argv[])
 {
-    int result;
+    int result, test1;
     result = add (3, 5);
     printf ("add: result = %d\n", result);
 
